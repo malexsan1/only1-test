@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About
 
-## Getting Started
+The TypeScript tasks are in the `types.ts` file.
 
-First, run the development server:
+### Personal note/rant/whatever - just my thoughts
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+On the TypeScript part I totally sucked, I ain't no wizard. I tried to give it a shot but I'm just bad at it. I need to look over Matt Pocock's course.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I heard a lot of hype about `shadcn` and how it is so awesome and yada yada. I never used it before and I was really looking forward to try it, to be honest.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+After this assignment I can say that it kinda fucking sucks. The CLi stuff is cool, ain't gonna lie, but that `Command` component killed me. And the docs are really poor, I have to jump thru 2 other docs and repos (radix and cmdk) just to make a list work. I get it, as a developer sifting thru documentation is half my job, but when using a UI library I would expect things to work.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Anyway, maybe I'm getting old and I can't keep up with all these flavor of the month UI libraries anymore.
 
-## Learn More
+I'm a big fan of `react-query`, best library ever imo. I didn't use as declaratively as I would like, had to resort to doing things in a more imperative style. Oh well..
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Cool assingment tho.
